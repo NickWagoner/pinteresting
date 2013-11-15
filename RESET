@@ -1,0 +1,11 @@
+Running `rake db:migrate - server` attached to terminal... up, run.6217
+Migrating to AddAttachmentImageToPins (20131113052145)
+==  AddAttachmentImageToPins: migrating =======================================
+-- change_table(:pins)
+   -> 0.0482s
+==  AddAttachmentImageToPins: migrated (0.0484s) ==============================
+
+rake aborted!
+Don't know how to build task 'server'
+
+(See full trace by running task with --trace)
